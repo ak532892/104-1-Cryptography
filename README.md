@@ -1,2 +1,6 @@
-<h1>104-1-Cryptography</h1>
-<h2>Homework</h2>
+# hw-cryptography
+
+* Course - [Cryptology 104-1](http://selquery.ttu.edu.tw/Main/syllabusview.php?SbjNo=I5320A)
+* C
+
+## Homework ##
